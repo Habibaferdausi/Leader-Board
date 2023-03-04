@@ -37,7 +37,10 @@ nav {
 .main-container {
   background-color: #e5e5e5;
 }
-
+.heading {
+  margin-left: 20px;
+  margin-right: 20px;
+}
 main {
   display: flex;
   flex-direction: column;
