@@ -6,7 +6,7 @@ Leader-board website typically collect data on performance.
 In this website I used HTML5 and Vanila CSS . I also tried to do make responsive this website by using @media queries. This design made from figma file.
 
 
-##Features
+## Features
 
 - Top players
 - Top Blogs
